@@ -1,0 +1,10 @@
+Target dependency graph (5 targets)
+Target 'SwiftWebsite' in project 'SwiftWebsite'
+➜ Explicit dependency on target 'Plot' in project 'Plot'
+➜ Explicit dependency on target 'Ink' in project 'Ink'
+Target 'Ink' in project 'Ink'
+➜ Explicit dependency on target 'Ink' in project 'Ink'
+Target 'Ink' in project 'Ink' (no dependencies)
+Target 'Plot' in project 'Plot'
+➜ Explicit dependency on target 'Plot' in project 'Plot'
+Target 'Plot' in project 'Plot' (no dependencies)
