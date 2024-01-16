@@ -1,0 +1,30 @@
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/RSSElements.swift":
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSElements.swiftdeps"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSElements.swiftconstvalues"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSElements.o"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSElements.dia"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSElements.d"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/Renderable.swift":
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Renderable.swiftdeps"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Renderable.d"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Renderable.o"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Renderable.dia"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Renderable.swiftconstvalues"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/SiteMap.swift":
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMap.o"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMap.d"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMap.swiftconstvalues"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMap.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMap.dia"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/RSSAttributes.swift":
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSAttributes.d"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSAttributes.o"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSAttributes.swiftdeps"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSAttributes.swiftconstvalues"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSAttributes.dia"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/SiteMapChangeFrequency.swift":
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapChangeFrequency.d"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapChangeFrequency.dia"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapChangeFrequency.swiftconstvalues"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapChangeFrequency.o"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapChangeFrequency.swiftdeps"

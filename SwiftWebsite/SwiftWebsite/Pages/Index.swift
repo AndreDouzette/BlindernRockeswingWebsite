@@ -42,8 +42,7 @@ func hvaskjerItem(dato: String, tittel: String, link: String? = nil) -> Node<HTM
 
 func hvaskjer() -> Node<HTML.BodyContext> {
 	.group(.h3("Arrangementer høsten 2023"),
-           hvaskjerItem(dato: "23. september", tittel: "Bli-kjent-fest", link: "https://www.facebook.com/events/702016635288704/"),
-           hvaskjerItem(dato: "21. oktober", tittel: "Slottsrock", link: "https://www.facebook.com/events/6758209720856661/"),
-           hvaskjerItem(dato: "18. november", tittel: "Juleball", link: "https://www.facebook.com/events/569324591940602/")
+           hvaskjerItem(dato: "24. februar", tittel: "Bli-kjent-fest", link: "https://www.facebook.com/events/369595942269897/"),
+           hvaskjerItem(dato: "23. mars", tittel: "Slottsrock", link: "https://www.facebook.com/events/1031888324748337/")
 	)
 }

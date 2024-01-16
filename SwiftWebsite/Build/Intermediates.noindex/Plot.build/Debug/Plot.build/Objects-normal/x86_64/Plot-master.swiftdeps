@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
 options: "f7669604efc58e5e5b8b68aee4776036d6ac7f376648b3c515a6b9c70412fb4f"
-build_start_time: [1692217562, 17476000]
-build_end_time: [1692217582, 904472000]
+build_start_time: [1692642450, 968379000]
+build_end_time: [1692642453, 937236000]
 inputs:
   ? "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-clvhgfnocxvaoidssvrjhdnwswez/SourcePackages/checkouts/plot/Sources/Plot/API/Attribute.swift"
   : [1640690388, 507170896]

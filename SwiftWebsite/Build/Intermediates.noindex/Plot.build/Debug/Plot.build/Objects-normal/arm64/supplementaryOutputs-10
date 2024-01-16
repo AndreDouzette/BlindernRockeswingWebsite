@@ -1,0 +1,36 @@
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/Element.swift":
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Element.o"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Element.dia"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Element.d"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Element.swiftdeps"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Element.swiftconstvalues"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/Document.swift":
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Document.o"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Document.d"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Document.swiftconstvalues"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Document.dia"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Document.swiftdeps"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/HTML.swift":
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTML.d"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTML.dia"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTML.o"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTML.swiftconstvalues"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTML.swiftdeps"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/DocumentEncoding.swift":
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/DocumentEncoding.o"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/DocumentEncoding.swiftdeps"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/DocumentEncoding.swiftconstvalues"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/DocumentEncoding.d"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/DocumentEncoding.dia"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/Attribute.swift":
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Attribute.d"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Attribute.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Attribute.dia"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Attribute.o"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Attribute.swiftconstvalues"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/ControlFlow.swift":
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ControlFlow.dia"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ControlFlow.d"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ControlFlow.o"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ControlFlow.swiftdeps"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ControlFlow.swiftconstvalues"

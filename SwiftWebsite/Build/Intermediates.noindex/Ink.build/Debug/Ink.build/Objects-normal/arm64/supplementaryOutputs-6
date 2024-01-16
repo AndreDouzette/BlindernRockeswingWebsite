@@ -1,0 +1,24 @@
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/Internal/PlainTextConvertible.swift":
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/PlainTextConvertible.d"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/PlainTextConvertible.o"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/PlainTextConvertible.swiftdeps"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/PlainTextConvertible.swiftconstvalues"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/PlainTextConvertible.dia"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/Internal/NamedURLCollection.swift":
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/NamedURLCollection.swiftconstvalues"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/NamedURLCollection.d"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/NamedURLCollection.swiftdeps"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/NamedURLCollection.o"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/NamedURLCollection.dia"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/Internal/Paragraph.swift":
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Paragraph.d"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Paragraph.swiftconstvalues"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Paragraph.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Paragraph.dia"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Paragraph.o"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/Internal/Readable.swift":
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Readable.o"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Readable.swiftconstvalues"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Readable.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Readable.dia"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Readable.d"

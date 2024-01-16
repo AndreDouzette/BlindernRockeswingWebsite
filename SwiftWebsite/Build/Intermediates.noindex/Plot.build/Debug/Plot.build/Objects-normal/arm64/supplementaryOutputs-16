@@ -1,0 +1,36 @@
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/Language.swift":
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Language.d"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Language.swiftconstvalues"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Language.swiftdeps"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Language.o"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Language.dia"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/Node.swift":
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Node.d"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Node.swiftconstvalues"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Node.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Node.dia"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Node.o"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/PodcastAttributes.swift":
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastAttributes.o"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastAttributes.swiftconstvalues"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastAttributes.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastAttributes.dia"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastAttributes.d"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/Indentation.swift":
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Indentation.d"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Indentation.swiftdeps"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Indentation.swiftconstvalues"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Indentation.dia"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Indentation.o"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/PodcastComponents.swift":
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastComponents.dia"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastComponents.d"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastComponents.swiftconstvalues"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastComponents.swiftdeps"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastComponents.o"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/PodcastElements.swift":
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastElements.dia"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastElements.d"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastElements.o"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastElements.swiftconstvalues"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastElements.swiftdeps"

@@ -1,0 +1,448 @@
+{
+  "" : {
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Plot-master.dia",
+    "emit-module-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Plot-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Plot-master-emit-module.dia",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Plot-master.swiftdeps"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/Attribute.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Attribute.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Attribute.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Attribute.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/Attribute.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Attribute.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Attribute.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Attribute.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Attribute~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/ControlFlow.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ControlFlow.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ControlFlow.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ControlFlow.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/ControlFlow.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ControlFlow.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ControlFlow.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ControlFlow.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ControlFlow~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/Document.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Document.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Document.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Document.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/Document.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Document.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Document.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Document.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Document~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/DocumentEncoding.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/DocumentEncoding.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/DocumentEncoding.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/DocumentEncoding.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/DocumentEncoding.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/DocumentEncoding.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/DocumentEncoding.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/DocumentEncoding.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/DocumentEncoding~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/Element.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Element.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Element.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Element.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/Element.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Element.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Element.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Element.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Element~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/HTML.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTML.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTML.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTML.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTML.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTML.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTML.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTML.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTML~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/HTMLAnchorRelationship.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAnchorRelationship.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAnchorRelationship.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAnchorRelationship.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAnchorRelationship.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAnchorRelationship.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAnchorRelationship.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAnchorRelationship.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAnchorRelationship~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/HTMLAnchorTarget.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAnchorTarget.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAnchorTarget.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAnchorTarget.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAnchorTarget.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAnchorTarget.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAnchorTarget.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAnchorTarget.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAnchorTarget~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/HTMLAttributes.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAttributes.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAttributes.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAttributes.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAttributes.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAttributes.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAttributes.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAttributes.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAttributes~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/HTMLAudioFormat.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAudioFormat.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAudioFormat.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAudioFormat.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAudioFormat.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAudioFormat.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAudioFormat.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAudioFormat.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLAudioFormat~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/HTMLComponents.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLComponents.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLComponents.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLComponents.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLComponents.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLComponents.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLComponents.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLComponents.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLComponents~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/HTMLElements.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLElements.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLElements.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLElements.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLElements.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLElements.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLElements.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLElements.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLElements~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/HTMLFormContentType.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLFormContentType.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLFormContentType.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLFormContentType.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLFormContentType.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLFormContentType.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLFormContentType.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLFormContentType.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLFormContentType~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/HTMLFormMethod.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLFormMethod.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLFormMethod.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLFormMethod.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLFormMethod.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLFormMethod.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLFormMethod.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLFormMethod.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLFormMethod~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/HTMLInputType.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLInputType.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLInputType.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLInputType.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLInputType.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLInputType.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLInputType.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLInputType.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLInputType~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/HTMLLinkRelationship.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLLinkRelationship.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLLinkRelationship.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLLinkRelationship.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLLinkRelationship.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLLinkRelationship.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLLinkRelationship.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLLinkRelationship.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLLinkRelationship~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/HTMLVideoFormat.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLVideoFormat.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLVideoFormat.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLVideoFormat.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLVideoFormat.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLVideoFormat.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLVideoFormat.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLVideoFormat.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLVideoFormat~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/HTMLViewportWidthMode.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLViewportWidthMode.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLViewportWidthMode.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLViewportWidthMode.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLViewportWidthMode.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLViewportWidthMode.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLViewportWidthMode.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLViewportWidthMode.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/HTMLViewportWidthMode~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/Indentation.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Indentation.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Indentation.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Indentation.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/Indentation.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Indentation.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Indentation.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Indentation.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Indentation~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/Language.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Language.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Language.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Language.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/Language.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Language.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Language.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Language.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Language~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/Node.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Node.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Node.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Node.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/Node.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Node.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Node.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Node.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Node~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/PodcastAttributes.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastAttributes.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastAttributes.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastAttributes.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastAttributes.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastAttributes.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastAttributes.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastAttributes.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastAttributes~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/PodcastComponents.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastComponents.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastComponents.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastComponents.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastComponents.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastComponents.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastComponents.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastComponents.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastComponents~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/PodcastElements.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastElements.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastElements.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastElements.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastElements.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastElements.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastElements.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastElements.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastElements~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/PodcastEpisodeType.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastEpisodeType.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastEpisodeType.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastEpisodeType.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastEpisodeType.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastEpisodeType.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastEpisodeType.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastEpisodeType.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastEpisodeType~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/PodcastFeed.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastFeed.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastFeed.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastFeed.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastFeed.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastFeed.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastFeed.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastFeed.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastFeed~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/PodcastMediaType.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastMediaType.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastMediaType.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastMediaType.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastMediaType.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastMediaType.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastMediaType.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastMediaType.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastMediaType~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/PodcastType.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastType.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastType.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastType.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastType.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastType.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastType.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastType.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/PodcastType~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/Renderable.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Renderable.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Renderable.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Renderable.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/Renderable.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Renderable.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Renderable.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Renderable.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/Renderable~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/RSS.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSS.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSS.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSS.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSS.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSS.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSS.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSS.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSS~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/RSSAttributes.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSAttributes.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSAttributes.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSAttributes.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSAttributes.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSAttributes.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSAttributes.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSAttributes.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSAttributes~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/RSSElements.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSElements.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSElements.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSElements.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSElements.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSElements.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSElements.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSElements.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/RSSElements~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/SiteMap.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMap.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMap.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMap.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMap.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMap.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMap.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMap.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMap~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/SiteMapChangeFrequency.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapChangeFrequency.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapChangeFrequency.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapChangeFrequency.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapChangeFrequency.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapChangeFrequency.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapChangeFrequency.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapChangeFrequency.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapChangeFrequency~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/SiteMapElements.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapElements.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapElements.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapElements.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapElements.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapElements.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapElements.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapElements.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/SiteMapElements~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/TwitterCardType.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/TwitterCardType.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/TwitterCardType.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/TwitterCardType.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/TwitterCardType.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/TwitterCardType.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/TwitterCardType.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/TwitterCardType.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/TwitterCardType~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/URLRepresentable.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/URLRepresentable.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/URLRepresentable.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/URLRepresentable.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/URLRepresentable.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/URLRepresentable.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/URLRepresentable.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/URLRepresentable.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/URLRepresentable~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/XML.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XML.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XML.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XML.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/XML.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XML.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XML.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XML.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XML~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/XMLAttributes.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XMLAttributes.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XMLAttributes.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XMLAttributes.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/XMLAttributes.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XMLAttributes.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XMLAttributes.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XMLAttributes.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XMLAttributes~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/API/XMLElements.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XMLElements.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XMLElements.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XMLElements.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/XMLElements.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XMLElements.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XMLElements.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XMLElements.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/XMLElements~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/Internal/AnyNode.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/AnyNode.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/AnyNode.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/AnyNode.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/AnyNode.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/AnyNode.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/AnyNode.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/AnyNode.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/AnyNode~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/Internal/ElementRenderer.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ElementRenderer.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ElementRenderer.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ElementRenderer.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/ElementRenderer.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ElementRenderer.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ElementRenderer.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ElementRenderer.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/ElementRenderer~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/Internal/NodeConvertible.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/NodeConvertible.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/NodeConvertible.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/NodeConvertible.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/NodeConvertible.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/NodeConvertible.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/NodeConvertible.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/NodeConvertible.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/NodeConvertible~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/plot/Sources/Plot/Internal/String+Escaping.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/String+Escaping.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/String+Escaping.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/String+Escaping.dia",
+    "index-unit-output-path" : "/Plot.build/Debug/Plot.build/Objects-normal/arm64/String+Escaping.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/String+Escaping.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/String+Escaping.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/String+Escaping.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/arm64/String+Escaping~partial.swiftmodule"
+  }
+}

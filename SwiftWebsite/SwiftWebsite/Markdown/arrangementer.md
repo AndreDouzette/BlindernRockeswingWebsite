@@ -2,9 +2,8 @@
 
 Ca. en gang i måneden arrangerer vi dansefest på Chateau Neuf. Dette er populære dansekvelder der du får praktisert det du har lært på kurs i et hyggelig og inkluderende miljø. Høsten 2023 arrangerer vi disse dansefestene
 
-* **23. september**: [Bli-kjent-fest](https://www.facebook.com/events/702016635288704/)
-* **21. oktober**: [Slottsrock](https://www.facebook.com/events/6758209720856661/)
-* **18. november**: [Juleball](https://www.facebook.com/events/569324591940602/)
+* **24. februar**: [Bli-kjent-fest](https://www.facebook.com/events/369595942269897/)
+* **23. mars**: [Slottsrock](https://www.facebook.com/events/1031888324748337/)
 
 Alle dansefestene i regi av oss er gratis for våre medlemmer. 
 

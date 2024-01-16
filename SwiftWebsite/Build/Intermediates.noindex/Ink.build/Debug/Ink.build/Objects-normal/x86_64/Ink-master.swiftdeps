@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
 options: "5800fe21f2f3b89f696cbe2d69116f3ff4846388daddd76948d828c6bc8d5f06"
-build_start_time: [1692217562, 17459000]
-build_end_time: [1692217582, 920243000]
+build_start_time: [1692642450, 967812000]
+build_end_time: [1692642453, 887997000]
 inputs:
   ? "/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-clvhgfnocxvaoidssvrjhdnwswez/SourcePackages/checkouts/ink/Sources/Ink/API/Markdown.swift"
   : [1640690388, 877309548]

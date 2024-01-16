@@ -1,0 +1,25 @@
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-clvhgfnocxvaoidssvrjhdnwswez/SourcePackages/checkouts/plot/Sources/Plot/Internal/ElementRenderer.swift":
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/ElementRenderer.dia"
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/ElementRenderer.d"
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/ElementRenderer.swiftdeps"
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/ElementRenderer.o"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-clvhgfnocxvaoidssvrjhdnwswez/SourcePackages/checkouts/plot/Sources/Plot/Internal/AnyNode.swift":
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/AnyNode.o"
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/AnyNode.d"
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/AnyNode.dia"
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/AnyNode.swiftdeps"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-clvhgfnocxvaoidssvrjhdnwswez/SourcePackages/checkouts/plot/Sources/Plot/Internal/NodeConvertible.swift":
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/NodeConvertible.dia"
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/NodeConvertible.d"
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/NodeConvertible.o"
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/NodeConvertible.swiftdeps"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-clvhgfnocxvaoidssvrjhdnwswez/SourcePackages/checkouts/plot/Sources/Plot/API/XMLElements.swift":
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/XMLElements.dia"
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/XMLElements.d"
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/XMLElements.o"
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/XMLElements.swiftdeps"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-clvhgfnocxvaoidssvrjhdnwswez/SourcePackages/checkouts/plot/Sources/Plot/Internal/String+Escaping.swift":
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/String+Escaping.swiftdeps"
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/String+Escaping.d"
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/String+Escaping.dia"
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/String+Escaping.o"

@@ -1,0 +1,15 @@
+"/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Pages/Slottsrock/Slottsrock22h.swift":
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/Slottsrock22h.o"
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/Slottsrock22h.dia"
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/Slottsrock22h.d"
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/Slottsrock22h.swiftdeps"
+"/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Templates/Footer.swift":
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/Footer.swiftdeps"
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/Footer.d"
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/Footer.o"
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/Footer.dia"
+"/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Assemblers/WebPage.swift":
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/WebPage.d"
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/WebPage.dia"
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/WebPage.swiftdeps"
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/WebPage.o"

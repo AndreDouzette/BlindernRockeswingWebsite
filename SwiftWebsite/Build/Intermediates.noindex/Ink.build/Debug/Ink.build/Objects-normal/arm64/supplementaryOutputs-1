@@ -1,0 +1,30 @@
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/Internal/Blockquote.swift":
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Blockquote.swiftconstvalues"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Blockquote.o"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Blockquote.swiftdeps"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Blockquote.d"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Blockquote.dia"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/Internal/Character+Classification.swift":
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Character+Classification.dia"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Character+Classification.swiftconstvalues"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Character+Classification.d"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Character+Classification.swiftdeps"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Character+Classification.o"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/API/Markdown.swift":
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Markdown.o"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Markdown.swiftconstvalues"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Markdown.d"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Markdown.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Markdown.dia"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/API/MarkdownParser.swift":
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/MarkdownParser.dia"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/MarkdownParser.swiftconstvalues"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/MarkdownParser.o"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/MarkdownParser.d"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/MarkdownParser.swiftdeps"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/API/Modifier.swift":
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Modifier.d"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Modifier.swiftconstvalues"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Modifier.o"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Modifier.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Modifier.dia"

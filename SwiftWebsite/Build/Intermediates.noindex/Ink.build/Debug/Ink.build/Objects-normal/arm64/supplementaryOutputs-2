@@ -1,0 +1,30 @@
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/Internal/FormattedText.swift":
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/FormattedText.d"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/FormattedText.dia"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/FormattedText.swiftdeps"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/FormattedText.o"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/FormattedText.swiftconstvalues"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/Internal/CodeBlock.swift":
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/CodeBlock.o"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/CodeBlock.dia"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/CodeBlock.swiftconstvalues"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/CodeBlock.swiftdeps"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/CodeBlock.d"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/Internal/HTML.swift":
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/HTML.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/HTML.dia"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/HTML.o"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/HTML.d"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/HTML.swiftconstvalues"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/Internal/Character+Escaping.swift":
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Character+Escaping.o"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Character+Escaping.d"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Character+Escaping.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Character+Escaping.dia"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Character+Escaping.swiftconstvalues"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/Internal/Fragment.swift":
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Fragment.dia"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Fragment.o"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Fragment.swiftconstvalues"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Fragment.d"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Fragment.swiftdeps"

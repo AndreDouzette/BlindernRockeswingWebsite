@@ -1,0 +1,24 @@
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/Internal/ModifierCollection.swift":
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/ModifierCollection.swiftconstvalues"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/ModifierCollection.dia"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/ModifierCollection.o"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/ModifierCollection.swiftdeps"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/ModifierCollection.d"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/Internal/Modifiable.swift":
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Modifiable.o"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Modifiable.d"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Modifiable.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Modifiable.dia"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Modifiable.swiftconstvalues"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/Internal/List.swift":
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/List.d"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/List.swiftconstvalues"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/List.dia"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/List.swiftdeps"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/List.o"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-garvhwaproqvyvfwvtmsxcxektwv/SourcePackages/checkouts/ink/Sources/Ink/Internal/Metadata.swift":
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Metadata.d"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Metadata.dia"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Metadata.swiftconstvalues"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Metadata.swiftdeps"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/arm64/Metadata.o"

@@ -1,0 +1,18 @@
+"/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Extensions/StringExtensions.swift":
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/StringExtensions.o"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/StringExtensions.swiftconstvalues"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/StringExtensions.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/StringExtensions.dia"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/StringExtensions.d"
+"/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/main.swift":
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/main.o"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/main.dia"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/main.swiftconstvalues"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/main.d"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/main.swiftdeps"
+"/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Pages/OmOss.swift":
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/OmOss.d"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/OmOss.swiftconstvalues"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/OmOss.o"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/OmOss.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/OmOss.dia"

@@ -1,0 +1,25 @@
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-clvhgfnocxvaoidssvrjhdnwswez/SourcePackages/checkouts/plot/Sources/Plot/API/PodcastEpisodeType.swift":
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/PodcastEpisodeType.d"
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/PodcastEpisodeType.o"
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/PodcastEpisodeType.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/PodcastEpisodeType.dia"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-clvhgfnocxvaoidssvrjhdnwswez/SourcePackages/checkouts/plot/Sources/Plot/API/PodcastType.swift":
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/PodcastType.o"
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/PodcastType.dia"
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/PodcastType.swiftdeps"
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/PodcastType.d"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-clvhgfnocxvaoidssvrjhdnwswez/SourcePackages/checkouts/plot/Sources/Plot/API/RSS.swift":
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/RSS.d"
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/RSS.dia"
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/RSS.o"
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/RSS.swiftdeps"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-clvhgfnocxvaoidssvrjhdnwswez/SourcePackages/checkouts/plot/Sources/Plot/API/PodcastFeed.swift":
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/PodcastFeed.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/PodcastFeed.dia"
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/PodcastFeed.d"
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/PodcastFeed.o"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-clvhgfnocxvaoidssvrjhdnwswez/SourcePackages/checkouts/plot/Sources/Plot/API/PodcastMediaType.swift":
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/PodcastMediaType.d"
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/PodcastMediaType.dia"
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/PodcastMediaType.o"
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Plot.build/Debug/Plot.build/Objects-normal/x86_64/PodcastMediaType.swiftdeps"

@@ -1,0 +1,20 @@
+"/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/FileReading.swift":
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/FileReading.d"
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/FileReading.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/FileReading.dia"
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/FileReading.o"
+"/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Assemblers/MenuItem.swift":
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/MenuItem.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/MenuItem.dia"
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/MenuItem.o"
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/MenuItem.d"
+"/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Extensions/AttributeExtensions.swift":
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/AttributeExtensions.o"
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/AttributeExtensions.dia"
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/AttributeExtensions.d"
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/AttributeExtensions.swiftdeps"
+"/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Pages/\xC6r\xF8.swift":
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/\xC6r\xF8.o"
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/\xC6r\xF8.swiftdeps"
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/\xC6r\xF8.d"
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/x86_64/\xC6r\xF8.dia"

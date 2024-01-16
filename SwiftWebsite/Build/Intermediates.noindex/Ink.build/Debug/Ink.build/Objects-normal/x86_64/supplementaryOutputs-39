@@ -1,0 +1,20 @@
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-clvhgfnocxvaoidssvrjhdnwswez/SourcePackages/checkouts/ink/Sources/Ink/Internal/Substring+Trimming.swift":
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/x86_64/Substring+Trimming.o"
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/x86_64/Substring+Trimming.d"
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/x86_64/Substring+Trimming.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/x86_64/Substring+Trimming.dia"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-clvhgfnocxvaoidssvrjhdnwswez/SourcePackages/checkouts/ink/Sources/Ink/Internal/Reader.swift":
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/x86_64/Reader.dia"
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/x86_64/Reader.swiftdeps"
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/x86_64/Reader.d"
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/x86_64/Reader.o"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-clvhgfnocxvaoidssvrjhdnwswez/SourcePackages/checkouts/ink/Sources/Ink/Internal/Require.swift":
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/x86_64/Require.swiftdeps"
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/x86_64/Require.o"
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/x86_64/Require.d"
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/x86_64/Require.dia"
+"/Users/andredouzette/Library/Developer/Xcode/DerivedData/SwiftWebsite-clvhgfnocxvaoidssvrjhdnwswez/SourcePackages/checkouts/ink/Sources/Ink/Internal/Table.swift":
+  object: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/x86_64/Table.o"
+  swift-dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/x86_64/Table.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/x86_64/Table.dia"
+  dependencies: "/Users/andredouzette/Developer/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/Ink.build/Debug/Ink.build/Objects-normal/x86_64/Table.d"

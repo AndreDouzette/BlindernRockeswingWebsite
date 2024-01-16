@@ -1,3 +1,19 @@
+# Frivilliges hovedoppgaver
+
+- De første tirsdagene hvert semester: Oppmøte før kurs kl. 16:00 hver tirsdag
+- Resten av semesteret: Oppmøte før kurs kl. 17:00 annenhver tirsdag
+- Hjelpe til før, under og etter kurs annenhver tirsdag
+- Rigge opp før kurs
+- Hjelpe til i kassen
+- Ta imot medlemmer og ønske dem velkommen
+- Inkludering av alle medlemmer under kurs og minidans. Snakk med de, dans med alle og få de med på diverse arrangementer innad i BRS
+- Dans med deltakerene under grunnkurset
+- Rigge ned helt til alt er ryddet etter kurs, forventes å være de siste til å gå etter kurs (ca kl. 21:30)
+- Bistå medlem- og rekrutteringsansvarlig ved stand på foreningsdager og oppheng av plakater før semesterstart
+- Bistå i forkant og under arrangementer ved behov
+
+----------
+
 # Styrets oppgaver
 
 Styremedlemmene velges inn ved årsmøtet i desember/januar, med mulighet til å sitte i styret i 2 år uten gjenvelgelse.
@@ -42,7 +58,7 @@ Styremedlemmene velges inn ved årsmøtet i desember/januar, med mulighet til å
 - Ansvarlig for vedlikehold av foreningens mailkontoer
 - Bistå med drift av sosiale mediaprofiler
 - Bistå med utforming av digital reklamemateriale
-- Drifter foreningens Discordserver
+- Drifte foreningens Discordserver
 
 ## Fagansvarlig
 
@@ -54,63 +70,54 @@ Styremedlemmene velges inn ved årsmøtet i desember/januar, med mulighet til å
 
 ## Økonomiansvarlig
 
-- Skrive regnskap
-- Lage budsjett
+- Føre regnskap
+- Føre budsjett
 - Holde oversikt over foreningens økonomi
 - Legge frem budsjett og regnskap ved hvert allmøte
-- Delansvarlig for anskaffelse av sponsoravtaler
-- Delansvarlig for søknader om økonomisk støtte
-- Bistå sponsoransvarlig
+- Hovedansvar for søknader om midler og økonomisk støtte til foreningens drift og arrangementer
+- Hovedansvarlig for søknader om økonomisk støtte
+- Ansvarlig for å følge opp sponsorer
+- Ansvarlig for sponsoravtaler
 
-## Fadderleder
+## Frivilligansvarlig
 
-- Rekruttere faddere
-- Ansvarlig for veiledning og opplæring av faddere 
+- Rekruttere frivillige
+- Ansvarlig for de frivillige og koordinering av frivillig-grupper
+- Ansvarlig for å fordele oppgaver til de frivillige under ukeskursene
+- Fungerende leder for de frivillige
+- Ansvarlig for veiledning og opplæring av frivillige
 - Inkludering av nye medlemmer
-- Svare på henvendelser fra potensielle medlemmer
-- Ansvarlig for å ta i mot nye medlemmer som ikke er med fra semesterstart
+- Svare på henvendelser fra nye eller potensielle medlemmer
+- Ansvarlig for å ta imot nye medlemmer som ikke er med fra semesterstart
 - Kontaktperson mot SiO foreninger og Velkommen
 - Deltakelse på fadderopplæring hos SiO
 
-## Medlemsansvarlig
+## Medlem- og rekrutteringsansvarlig
 
 - Ansvarlig for føring av medlemslister
-- Ansvarlig for kassa under ukeskursene
-- Svare på medlemsrelaterte spørsmål på mail, facebook, instagram og evt. andre kanaler
-- Ansvar for evt. påmeldingslister og håndtering av disse
-- Delansvar for stand ved foreningsdager o.l.
-- Delansvar for at plakater blir hengt opp på studiestedene
-
-## Rekrutteringsansvarlig
-
+- Hovedansvarlig for kassa og inngangspartiet under ukeskursene
+- Svare på medlemsrelaterte spørsmål på mail, sosiale medier og evt. andre kanaler
+- Ansvar for påmeldingslister og håndtering av disse
+- Hovedansvar for stand ved foreningsdager o.l.
+- Hovedansvar for at plakater blir hengt opp på studiestedene
 - Rekruttering av nye medlemmer
 - Oppfølging av tidligere medlemmer
-- Hovedansvarlig for stand ved foreningsdager o.l.
-- Hovedansvarlig for at plakater blir hengt opp på studiestedene
-- Svare på medlemsrelaterte spørsmål på mail, facebook, instagram og evt. andre kanaler
 
 ## Markedsføringsansvarlig
 
-- Ansvarlig for å generere innhold for foreningens sosiale media kontoer
+- Ansvarlig for å lage innhold til foreningens sosiale media kontoer
 - Delansvarlig for innholdet på foreningens nettsider
 - Bistå med promoteringer på sosiale medier
 - Bistå med utforming av reklamemateriell
 - Delansvar for stand ved foreningsdager o.l.
 - Delansvar for at plakater blir hengt opp på studiestedene
 
-## Sponsoransvarlig
-
-- Hovedansvar for søknader om midler og økonomisk støtte til foreningens drift og arrangementer
-- Hovedansvar for anskaffelse av sponsoravtaler
-- Ansvarlig for å følge opp sponsorer
-- Ansvarlig for å innvilge sponsoravtaler
-- Bistå økonomiansvarlig
-
-## Felles for alle styremedlemmer
+## Retningslinjer for alle styremedlemmer
 
 - Bidra til å tilrettelegge for gjennomføring av den ordinære driften så langt det lar seg gjøres
+- Ta selv initiativ til å ta i et tak der det trengs
 - Ansvarlig for oppbevaring av foreningens utstyr
 - Skal ikke reklamere for konkurrerende virksomhet eller private arrangementer gjennom foreningens kanaler
 - Et styremedlem kan ikke ha en hovedrolle i en annen forening eller organisasjon som driver konkurrerende virksomhet. Hovedoppgave vil si et styreverv, deltakelse i en komité, eller andre oppgaver slik som fast instruktør, spiller el. som holder driften gående
-- Inkludering av foreningens medlemmer i foreningens aktivitet
+- Aktivt bidra til inkludering av foreningens medlemmer i foreningens aktivitet
 - Bidra til et positivt, inkluderende og sosialt miljø

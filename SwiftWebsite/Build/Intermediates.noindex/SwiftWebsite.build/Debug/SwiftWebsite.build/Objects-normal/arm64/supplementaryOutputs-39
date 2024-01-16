@@ -1,0 +1,18 @@
+"/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Extensions/ElementExtensions.swift":
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/ElementExtensions.swiftconstvalues"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/ElementExtensions.o"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/ElementExtensions.swiftdeps"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/ElementExtensions.d"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/ElementExtensions.dia"
+"/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Assemblers/MarkdownPage.swift":
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MarkdownPage.d"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MarkdownPage.dia"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MarkdownPage.swiftconstvalues"
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MarkdownPage.o"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MarkdownPage.swiftdeps"
+"/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Pages/Arrangementer.swift":
+  object: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Arrangementer.o"
+  const-values: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Arrangementer.swiftconstvalues"
+  swift-dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Arrangementer.swiftdeps"
+  diagnostics: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Arrangementer.dia"
+  dependencies: "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Arrangementer.d"

@@ -1,0 +1,278 @@
+{
+  "" : {
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/SwiftWebsite-master.dia",
+    "emit-module-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/SwiftWebsite-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/SwiftWebsite-master-emit-module.dia",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/SwiftWebsite-master.swiftdeps"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Assemblers/MarkdownPage.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MarkdownPage.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MarkdownPage.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MarkdownPage.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MarkdownPage.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MarkdownPage.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MarkdownPage.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MarkdownPage.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MarkdownPage~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Assemblers/MenuItem.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MenuItem.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MenuItem.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MenuItem.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MenuItem.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MenuItem.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MenuItem.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MenuItem.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MenuItem~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Assemblers/WebPage.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/WebPage.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/WebPage.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/WebPage.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/WebPage.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/WebPage.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/WebPage.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/WebPage.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/WebPage~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Assemblers/Website.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Website.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Website.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Website.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Website.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Website.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Website.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Website.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Website~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Elements/Table.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Table.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Table.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Table.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Table.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Table.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Table.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Table.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Table~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Extensions/AttributeExtensions.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/AttributeExtensions.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/AttributeExtensions.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/AttributeExtensions.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/AttributeExtensions.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/AttributeExtensions.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/AttributeExtensions.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/AttributeExtensions.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/AttributeExtensions~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Extensions/ElementExtensions.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/ElementExtensions.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/ElementExtensions.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/ElementExtensions.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/ElementExtensions.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/ElementExtensions.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/ElementExtensions.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/ElementExtensions.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/ElementExtensions~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Extensions/StringExtensions.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/StringExtensions.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/StringExtensions.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/StringExtensions.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/StringExtensions.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/StringExtensions.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/StringExtensions.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/StringExtensions.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/StringExtensions~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/FileReading.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/FileReading.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/FileReading.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/FileReading.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/FileReading.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/FileReading.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/FileReading.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/FileReading.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/FileReading~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/main.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/main.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/main.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/main.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/main.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/main.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/main~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Markdown.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Markdown.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Markdown.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Markdown.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Markdown.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Markdown.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Markdown.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Markdown.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Markdown~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Pages/Ærø.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Ærø.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Ærø.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Ærø.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Ærø.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Ærø.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Ærø.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Ærø.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Ærø~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Pages/Arrangementer.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Arrangementer.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Arrangementer.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Arrangementer.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Arrangementer.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Arrangementer.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Arrangementer.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Arrangementer.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Arrangementer~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Pages/Faq.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Faq.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Faq.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Faq.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Faq.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Faq.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Faq.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Faq.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Faq~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Pages/Index.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Index.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Index.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Index.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Index.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Index.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Index.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Index.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Index~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Pages/Kurs.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Kurs.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Kurs.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Kurs.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Kurs.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Kurs.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Kurs.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Kurs.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Kurs~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Pages/OmOss.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/OmOss.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/OmOss.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/OmOss.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/OmOss.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/OmOss.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/OmOss.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/OmOss.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/OmOss~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Pages/OmOss/årsmøte.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/årsmøte.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/årsmøte.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/årsmøte.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/årsmøte.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/årsmøte.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/årsmøte.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/årsmøte.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/årsmøte~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Pages/OmOss/Styret.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Styret.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Styret.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Styret.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Styret.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Styret.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Styret.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Styret.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Styret~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Pages/OmOss/styreverv.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/styreverv.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/styreverv.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/styreverv.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/styreverv.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/styreverv.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/styreverv.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/styreverv.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/styreverv~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Pages/Påmleding.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Påmleding.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Påmleding.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Påmleding.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Påmleding.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Påmleding.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Påmleding.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Påmleding.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Påmleding~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Pages/Priser.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Priser.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Priser.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Priser.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Priser.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Priser.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Priser.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Priser.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Priser~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Pages/Slottsrock/Slottsrock22h.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Slottsrock22h.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Slottsrock22h.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Slottsrock22h.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Slottsrock22h.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Slottsrock22h.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Slottsrock22h.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Slottsrock22h.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Slottsrock22h~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Templates/Footer.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Footer.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Footer.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Footer.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Footer.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Footer.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Footer.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Footer.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Footer~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Templates/Head.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Head.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Head.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Head.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Head.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Head.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Head.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Head.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Head~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Templates/Header.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Header.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Header.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Header.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Header.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Header.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Header.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Header.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/Header~partial.swiftmodule"
+  },
+  "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/SwiftWebsite/Templates/MenuBar.swift" : {
+    "const-values" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MenuBar.swiftconstvalues",
+    "dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MenuBar.d",
+    "diagnostics" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MenuBar.dia",
+    "index-unit-output-path" : "/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MenuBar.o",
+    "llvm-bc" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MenuBar.bc",
+    "object" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MenuBar.o",
+    "swift-dependencies" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MenuBar.swiftdeps",
+    "swiftmodule" : "/Users/andredouzette/Developer/website/brsWebsiteGenerator/SwiftWebsite/Build/Intermediates.noindex/SwiftWebsite.build/Debug/SwiftWebsite.build/Objects-normal/arm64/MenuBar~partial.swiftmodule"
+  }
+}

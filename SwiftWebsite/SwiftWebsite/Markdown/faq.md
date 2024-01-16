@@ -4,7 +4,7 @@
 
 ### Finnes det lister over musikken som brukes på kurs?
 
-Mye av den musikken vi bruker på kurs er spesialinnspillt til kurs, og dessverre ikke tilgjengelig for offentligheten. Men vi har laget en [spotifyliste](https://open.spotify.com/user/eonsv/playlist/1bVUjRSZXHv8PHoFC2PRXp) som inneholder gode alternativer til kursmusikken og et utvalg av det som ofte brukes til dansetrening og på dansefestene hos oss.
+Mye av den musikken du hører på kurs er pedagogisk musikk som kun instruktørene har tilgang til, og derfor ikke tilgjengelig for alle. Men vi har laget en [spotifyliste](https://open.spotify.com/user/eonsv/playlist/1bVUjRSZXHv8PHoFC2PRXp) som inneholder gode alternativer til kursmusikken og et utvalg av det som ofte brukes til dansetrening og på dansefestene hos oss.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1bVUjRSZXHv8PHoFC2PRXp?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -24,19 +24,19 @@ Du vil klare å henge med selv om du ikke kan første og/eller andre gangen. Så
 
 ### Hvilken swingtype underviser dere?
 
-Swingtypen vi danser kalles fastingswing, og ofte også rockeswing. Det er en 4-takters swingdans inspirert av 50- og 60-tallets musikk og dansestiler, og er den mest utbredte swingformen i Norge. Dansen var opprinnnelig koreografert ut i fra hvordan det ble danset til rock'n roll og swingmusikk i Norge på 60-tallet, men den har vært i kontinuerlig utvikling siden den gang. Utover vanlig swing underviser vi ofte rock'n roll og jumpboogie på våre helgekurs eller på høyere nivåer. Disse dansestilene bygger på det du lærer på grunnkurs i swing, men innfører noen nye elementer som kan brukes for å danse til rask (rock'n roll) eller rolig (jumpboogie) musikk.
+Swingtypen vi danser kalles fastingswing, og ofte også rockeswing eller rock'n roll. Det er en swingdans inspirert av 50- og 60-tallets musikk og dansestiler, og er den mest utbredte swingformen i Norge. Dansen var opprinnnelig koreografert ut i fra hvordan det ble danset til rock'n roll og swingmusikk i Norge på 60-tallet, men den har vært i kontinuerlig utvikling siden den gang. Utover vanlig swing underviser vi ofte rock'n roll og jumpboogie på våre helgekurs eller på høyere nivåer. Disse dansestilene bygger på det du lærer på grunnkurs i swing, men innfører noen nye elementer som kan brukes for å danse til rask (rock'n roll) eller rolig (jumpboogie) musikk.
 
 ----------
 
 ### Trenger jeg å ha med dansepartner?
 
-Kom gjerne alene! Vi roterer partnere på våre kurs så du trenger ikke ha med dansepartner.
+Vi roterer partnere på våre kurs så du trenger ikke ha med dansepartner.
 
 ----------
 
 ### Kan jeg danse med kjæresten min hele kurset, eller må vi bytte partner?
 
-På grunnkurs trenger dere ikke rotere dansepartnere hvis dere ikke vil det. Men det er sterkt anbefalt, ettersom dere lærer mye raskere ved å danse med mange enn å bare danse med én. På høyere nivåer er alle deltakere pålagt å rotere dansepartnere.
+De første gangene på grunnkurs trenger dere ikke rotere dansepartnere hvis dere ikke vil det. Men det er sterkt anbefalt, ettersom dere lærer mye raskere ved å danse med mange enn å bare danse med en fast partner. På høyere nivåer er alle deltakere pålagt å rotere dansepartnere.
 
 ----------
 
@@ -48,7 +48,7 @@ Nei, du trenger ikke være student på UiO for å bli medlem hos oss.
 
 ### Kan jeg bli med selv om jeg ikke er student?
 
-Det er dessverre restriksjoner på antallet ikke-studenter som vi kan ta opp som medlemmer, på grunn av reglementene til SiO og UiO. Men vi har plass til et visst antall.
+Vi har plass til et visst antall ikke-studenter. Men det er dessverre restriksjoner hvor mange vi kan ta opp som medlemmer, på grunn av reglementene til SiO og UiO. For å sikre deg plass anbefaler vi derfor å melde deg inn så tidlig som mulig.
 
 ----------
 
@@ -60,25 +60,25 @@ Vi bruker ikke Athletica sine lokaler, så du trenger ikke være medlem der for 
 
 ### Hvordan betaler jeg for medlemskapet?
 
-Etter første gangen på grunnkurs eller rett før andre gangen, vi tar kort, vipps eller kontant.
+Du betaler medlemskontingenten i kurslokalet hos oss. Vi tar kort, vipps eller kontant.
 
 ----------
 
 ### Hva inngår i medlemskapet?
 
-Du får fri tilgang til alle våre aktiviteter når du er medlem hos oss. Vi har ca. 12 tirsdager med kurs, og i tillegg arrangerer vi 3 eller 4 helgekurs med dansefest i semesteret.
+Du får fri tilgang til alle våre aktiviteter når du er medlem hos oss. Vi har ca. 12 tirsdager med kurs, og i tillegg arrangerer vi 2 eller 3 helgekurs med dansefest i semesteret.
 
 ----------
 
 ### Hvilke sko burde jeg danse i?
 
-Gulvet i kantantina til Helga Engs er glatt nok til at joggesko eller treningssko for gymsal er det mest optimale. Men når en danser andre steder der det er parkettgulv, slik som på Cheatau Neuf kan det være en fordel med dansesko. Følgende er eksempler på dansesko som brukes av mange av medlemmene våre:
+Gulvet i kantantina til Helga Engs er glatt nok til treningssko for gymsal eller vanlige joggesko er det mest optimale. Men når en danser andre steder der det er parkettgulv, slik som på Cheatau Neuf, kan det være en fordel med dansesko. Følgende er eksempler på dansesko som brukes av mange av medlemmene våre:
 
 * [Rumpf urban](https://www.dsiwear.com/products/rumpf-urban-sneaker)
 * [Rumpf comfort](https://www.dsiwear.com/products/new-comfort)
 * [Bleyer shuffle](https://www.dsiwear.com/products/shuffle)
 
-NB: Høyhælte sko skal ikke brukes til swingdans, av hensyn til dine meddansere. Det å bli tråkket på av en høyhælt sko er vondt. Vi vil også anbefale å unngå bruk av dansesko med splittet såle, ettersom det er dansesko som er designet til annen dans enn pardans, og gir ikke støtten en trenger i swingdans.
+NB: Høyhælte sko skal ikke brukes til swingdans av hensyn til dine meddansere. Det å bli tråkket på av en høyhælt sko er veldig vondt. Det egner seg heller ikke til swingdans. Vi vil også anbefale å unngå bruk av dansesko med splittet såle, ettersom det er dansesko som er designet til annen dans enn pardans, og gir ikke støtten en trenger for å få til bevegelsene i swingdansen.
 
 ----------
 
